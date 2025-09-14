@@ -23,7 +23,7 @@
 </div>
 <h4>DevOps</h4>
 <div>
-  <img src="https://img.shields.io/badge/AWS-F38020?style=flat-square&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-F38020?style=flat-square"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>
 <h4>Tools</h4>
