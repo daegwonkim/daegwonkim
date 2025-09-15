@@ -2,7 +2,6 @@
 [![Email](https://img.shields.io/badge/daegwonkim.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daegwonkim.dev@gmail.com)
 
 👋 Hi there! I'm a backend developer, solving problems and learning every day. 🧑‍💻  
-I love exploring new backend technologies and turning ideas into reliable solutions. 💻✨
 
 I enjoy coffee, pull-up and playing games. 💪 🎮  
 Coding, learning, and having fun along the way! 😎
