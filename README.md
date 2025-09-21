@@ -1,4 +1,3 @@
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=macys&logoColor=white)](https://daegwonkim.tistory.com)
 [![Email](https://img.shields.io/badge/daegwonkim.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daegwonkim.dev@gmail.com)
 
 👋 Hi there! I'm a backend developer, solving problems and learning every day. 🧑‍💻  
